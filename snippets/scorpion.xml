@@ -23,6 +23,7 @@
   </project>
 
  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="scorpion" />
+  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="scorpion" />
  <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="scorpion" />
  <project path="vendor/scorpion" name="vendor_scorpion" groups="pdk-cw-fs,pdk-fs" remote="scorpion" />
  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="scorpion" />
