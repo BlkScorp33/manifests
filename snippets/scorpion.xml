@@ -29,4 +29,5 @@
  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="scorpion" />
  <project path="lineage-sdk" name="lineage-sdk" remote="scorpion" />
   <project path="device/scorpion/sepolicy" name="device_scorpion_sepolicy" remote="scorpion" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="scorpion" />
 </manifest>
